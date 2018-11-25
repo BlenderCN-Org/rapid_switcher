@@ -1,4 +1,6 @@
-# Rapid Switcher
+Rapid Switcher
+--------------
+
 ![alt image](https://img.shields.io/badge/Blender-2.79b-blue.svg)
 
 Rapid Switcher is a tool to move areas and acreens quickly for your rapid workflow.
